@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class J02021 {
+ class J02021 {
     static int n, k, count = 0;
     static int[] a = new int[20];
 
